@@ -10,6 +10,7 @@ Public work lives in the Wira Digital Indonesia org:
 
 - WDI Method — https://github.com/wiradigitalid/wdi-method
 - Worship Presenter Web — https://github.com/wiradigitalid/worship-presenter-web
+- Wira Desk — https://github.com/wiradigitalid/wira-desk
 
 Better places to see the work:
 
