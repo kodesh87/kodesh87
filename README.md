@@ -1,13 +1,15 @@
 ## Wira Sihombing
 
-Technical Systems Analyst, from requirements to released systems. Founder of
-[Wira Delta Indonesia](https://wiradelta.com). I turn business requirements into systems
-that ship, and I write production code when the design needs proving.
+Technical Systems Analyst and Software Engineer, from requirements to released systems.
+Founder of [Wira Delta Indonesia](https://wiradelta.com). I turn business requirements into
+systems that ship, and I write much of the production code myself. These days I build with
+AI coding agents under human review gates, using WDI Method, the method I published.
 
 **The substantial work is in private repositories:** client and employer code, enterprise
-integration, identity and single sign-on, procurement and ERP-adjacent workflow, and backend
-services in Java, C#/.NET, and PHP. That work spans more than a decade, including a single
-sign-on ecosystem that replaced separate logins for 2,600+ users.
+integration, identity and single sign-on, procurement and ERP-adjacent workflow, backend
+services in Java, C#/.NET, PHP/Laravel, and Go, and web apps in React and TypeScript. That work
+spans more than a decade, including a single sign-on ecosystem that replaced separate logins
+for 2,600+ users.
 
 Public work lives in the Wira Delta Indonesia org ([github.com/wiradeltaid](https://github.com/wiradeltaid)):
 
